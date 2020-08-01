@@ -1,0 +1,16 @@
+{
+    "name": "macraen/statblog",
+    "description": "Laravel package for site blog",
+    "minimum-stability": "stable",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Macraen",
+            "email": "m_lenovo99@ukr.net"
+        }
+    ],
+    "require": {
+
+    }
+}
